@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">亲爱的向琳</string>
+    <string name="edit_message">请输入内容</string>
+    <string name="button_send">点击发送按钮</string>
+</resources>
